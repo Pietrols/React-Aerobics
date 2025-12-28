@@ -4,3 +4,4 @@ This is a collection of react practice projects - from basic components to compl
 
 1. Counter App to practice tailwind css
 2. Light/Dark Theme Switcher
+3. Tabs Component with 3 tabs
